@@ -12,4 +12,7 @@ Python Calculator V1 adalah mini project yang dibuat untuk mempelajari dasar-das
 - Pembagian (/)
 - Sisa Bagi (%)
 - Pangkat (**)
-# python-calculator-v1
+
+## author
+
+faiidev
